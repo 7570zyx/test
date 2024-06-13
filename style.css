@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+section,footer{
+    background-color: rgb(196, 118, 84);
+    border: 5px rgb(212, 255, 0) dotted;
+    padding: 40px 100px 15px 80px;
+
+}
+header{
+    background-color: antiquewhite;
+}
+h1{
+    color: aquamarine;
+} 
+header li {
+    
+}
